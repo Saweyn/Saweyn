@@ -13,9 +13,3 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Saweyn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,blender" />
-  </a>
-</p>
